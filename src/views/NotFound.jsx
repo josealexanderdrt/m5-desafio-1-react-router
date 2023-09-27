@@ -19,3 +19,12 @@ export const NotFound = () => {
 };
 
 export default NotFound;
+
+{/* 
+  /* NOTAS 
+¿Por qué crear una ruta "Not Found"?
+Mejora la experiencia del usuario y sirve para darle retroalimentacion del error 
+
+Se puede usar un path con un asterisco 
+
+*/}

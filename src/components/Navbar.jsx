@@ -34,3 +34,9 @@ export const NavBar = () => {
 };
 
 export default NavBar;
+
+{/* 
+NOTAS
+Con la tecla windows  + . = iconos 
+
+*/}
