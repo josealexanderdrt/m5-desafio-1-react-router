@@ -1,0 +1,39 @@
+.headerTitle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 20px;
+
+}
+
+.formClass{
+
+    align-items: center;
+    text-align: center;
+  
+}
+
+.carousel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.carouselCaption{
+    backdrop-filter: blur(3px);
+
+}
+
+.card{
+    margin: 30px;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
